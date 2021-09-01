@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+#Background {
+  width: 80%;
+  margin: 0 10%;
+  box-sizing: border-box;
+  border: 20px #bdc3c7 solid;
+  padding: 0 20px;
+  font-family: "Lato", sans-serif;
+  border-radius: 25px;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #3d3d3d;
+  letter-spacing: 3.2px;
+  font-family: "Lato", sans-serif;
+  padding: 0;
+  margin: 20px 0 0;
+  
+}
+
+h2:hover {
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+h4 {
+  color: #3498db;
+  text-transform: uppercase;
+  justify-content: right;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  margin: 0;
+}
+
+.Odd {
+  text-align: justify;
+  text-align: right;
+}
+
+.Even {
+  text-align: center;
+}
+
+.ParaSplit {
+  height: 5px;
+  margin: auto;
+  background-color: #bdc3c7;
+}
+
+.SectionSplit {
+  height: 10px;
+  margin: auto;
+  background-color: #bdc3c7;
+}
